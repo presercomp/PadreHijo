@@ -11,7 +11,7 @@ public class ConexionMySQL {
     // Nombre de la Base de datos
     private static String database = "ceduc_almacen";
     // Servidor
-    private static String hostname = "192.168.1.200";
+    private static String hostname = "192.168.1.250";
     // Puerto
     private static String port = "3306";
     // Usuario
